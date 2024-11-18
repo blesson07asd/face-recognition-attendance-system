@@ -49,10 +49,10 @@ The system:
 
 3. **Setup Firebase:**
 
-- Create a Firebase project if you haven’t already.
-- Enable Realtime Database and Firebase Storage in the Firebase console.
-- Generate a service account key from the Firebase console.
-- Save the JSON file to the project folder.
+  - Create a Firebase project if you haven’t already.
+  - Enable Realtime Database and Firebase Storage in the Firebase console.
+  - Generate a service account key from the Firebase console.
+  - Save the JSON file to the project folder.
 
 4. **Create a `.env` file: Add the following content to your `.env` file:**
    ```bash
